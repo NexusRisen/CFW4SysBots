@@ -1,3 +1,7 @@
+![GitHub Release](https://img.shields.io/github/v/release/hexbyt3/Cfw4sysbots)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/hexbyt3/Cfw4sysbots/total?color=violet)
+
+
 # SysBot.NET Nintendo Switch Setup Guide
 
 This package contains all the essential files needed to set up SysBot.NET on an unpatched Nintendo Switch for Pokémon games automation.
